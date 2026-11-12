@@ -1,6 +1,6 @@
-# WildLog · web
+# Wildlog · web
 
-Portada y política de privacidad de WildLog, un diario de encuentros con animales y de inmersiones.
+Portada y política de privacidad de Wildlog, un diario de encuentros con animales y de inmersiones.
 
 - Portada: https://jparker7.github.io/wildlog-web/
 - Política de privacidad: https://jparker7.github.io/wildlog-web/privacidad.html
